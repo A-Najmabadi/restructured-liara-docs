@@ -1,5 +1,5 @@
 {
-  "app": "the-docs",
+  "app": "restructured-liara-docs",
   "port": 80,
   "platform": "docker",
   "healthCheck": {
